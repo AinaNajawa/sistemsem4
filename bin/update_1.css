@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(110, 44, 110);
+}
+fieldset{
+    border: 5px solid;
+    height: 670px;
+    color: rgb(255, 255, 255);
+}
+th {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .name{
+    background-color: blue;
+    color: aliceblue;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+a{
+    color: black;
+}
+tr{
+    color: rgb(255, 255, 255);
+}

@@ -1,0 +1,16 @@
+*{
+ 
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 , p, label{
+    color: white;
+}
+body{
+    background-color: black;
+}
+a{
+    color: black;
+}
+h1{
+    text-align: center;
+}

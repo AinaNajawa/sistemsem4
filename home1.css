@@ -1,0 +1,13 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+}
+fieldset{
+    height: 600px;
+    color: rgb(255, 255, 255);
+ } 
+ tr{
+    color: aliceblue;
+ }
